@@ -1,4 +1,6 @@
 # Jersey Adda Site
+The website is deployed at:- 
+https://www.jerseyadda.co.in/
 
 This repo now has a split frontend setup:
 
