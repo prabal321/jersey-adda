@@ -50,5 +50,5 @@ Copy each `.env.example` file to `.env` in the matching app folder.
 
 - The admin dashboard uses the same jersey filters as the storefront, plus the editing form.
 - The backend is shared, so both apps talk to the same API and database.
-- The public site no longer links to the admin app.
+- The public site does not link to the admin app.
 - For production, deploy the public app and admin app separately, or map them to different domains/subdomains.
